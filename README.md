@@ -1,1 +1,1 @@
-# this is a git repository
+# this a git repository
